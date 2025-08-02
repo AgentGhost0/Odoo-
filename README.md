@@ -71,4 +71,3 @@ See `/assets/` folder for UI and demo GIFs.
 
 ## 👏 Made for Hackathon
 
-This project was created as part of a no-code hackathon challenge to demonstrate design, modularity, and workflow logic using Glide and Glide Tables.
